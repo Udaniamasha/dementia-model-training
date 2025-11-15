@@ -3,7 +3,7 @@
 This repository contains the solution for the Model-X AI/ML Hackathon.
 
 ## Files
-- `model-x-sprint.ipynb`: The main Jupyter Notebook containing all the code for data analysis, preprocessing, model training, and evaluation.
+- `model_training.ipynb`: The main Jupyter Notebook containing all the code for data analysis, preprocessing, model training, and evaluation.
 
 ## How to Run
 1. Ensure you have Python installed.
